@@ -1,0 +1,13 @@
+package com.bebit.vuewithspringboot;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class VuewithspringbootApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
